@@ -24,6 +24,10 @@ This project investigates how song characteristics such as loudness, duration, d
    git clone https://github.com/JoshuaE43/dev10-capstone.git
 ```
 2. Ensure MySQL is running and accessible within Docker containers.
+3. Primary dataset too large for GitHub. Download from Kaggle and place in datasets/primary/.
+https://www.kaggle.com/datasets/rodolfofigueroa/spotify-12m-songs
+
+
 
 ### Executing
 
